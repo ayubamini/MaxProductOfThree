@@ -1,0 +1,16 @@
+D:\Programming\Projects\Git\MaxProductOfThree\obj\Debug\net5.0\MaxProductOfThree.csprojAssemblyReference.cache
+D:\Programming\Projects\Git\MaxProductOfThree\obj\Debug\net5.0\MaxProductOfThree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Projects\Git\MaxProductOfThree\obj\Debug\net5.0\MaxProductOfThree.AssemblyInfoInputs.cache
+D:\Programming\Projects\Git\MaxProductOfThree\obj\Debug\net5.0\MaxProductOfThree.AssemblyInfo.cs
+D:\Programming\Projects\Git\MaxProductOfThree\obj\Debug\net5.0\MaxProductOfThree.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\Git\MaxProductOfThree\bin\Debug\net5.0\MaxProductOfThree.exe
+D:\Programming\Projects\Git\MaxProductOfThree\bin\Debug\net5.0\MaxProductOfThree.deps.json
+D:\Programming\Projects\Git\MaxProductOfThree\bin\Debug\net5.0\MaxProductOfThree.runtimeconfig.json
+D:\Programming\Projects\Git\MaxProductOfThree\bin\Debug\net5.0\MaxProductOfThree.runtimeconfig.dev.json
+D:\Programming\Projects\Git\MaxProductOfThree\bin\Debug\net5.0\MaxProductOfThree.dll
+D:\Programming\Projects\Git\MaxProductOfThree\bin\Debug\net5.0\ref\MaxProductOfThree.dll
+D:\Programming\Projects\Git\MaxProductOfThree\bin\Debug\net5.0\MaxProductOfThree.pdb
+D:\Programming\Projects\Git\MaxProductOfThree\obj\Debug\net5.0\MaxProductOfThree.dll
+D:\Programming\Projects\Git\MaxProductOfThree\obj\Debug\net5.0\ref\MaxProductOfThree.dll
+D:\Programming\Projects\Git\MaxProductOfThree\obj\Debug\net5.0\MaxProductOfThree.pdb
+D:\Programming\Projects\Git\MaxProductOfThree\obj\Debug\net5.0\MaxProductOfThree.genruntimeconfig.cache
